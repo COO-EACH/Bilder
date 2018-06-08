@@ -15,7 +15,7 @@ public class JdbcConnector {
 		MYSQL, POSTGRES, HSQL;
 	}
 
-	private static final String PASSWORD = "";
+	private static final String PASSWORD = "123@mudar";
 	private static final String USER = "root";
 	private static final String HOST = "localhost";
 	protected static  String DB_NAME = "coo2018_outro";
